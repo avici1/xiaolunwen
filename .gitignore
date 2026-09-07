@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.RData
+*.rds
+*.csv
+*.xlsx
+*.xls
+.DS_Store
+Thumbs.db
